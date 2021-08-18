@@ -1,0 +1,127 @@
+body{
+  background-image: url(IMG/background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.big-square{
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 1100px;
+  height: 800px;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 4%;
+}
+
+#logo{
+  width: 25%;
+  height: 17%;
+  margin-left: 38%;
+  margin-top: 5%;
+}
+#title1{
+    margin-left: 33%;
+    color: #44FF00;
+    margin-top: 1%;
+    font-family: 'Roboto', Arial;
+}
+
+.green-rectangle{
+  background-color: #44FF00;
+  width: 800px;
+  height: 50px;
+  margin-left: 15%;
+  display: inline-block;
+  border-radius: 50px;
+}
+
+#button1 {
+  background-color: #e7e7e7; color: black;
+  border-radius: 14px;
+  color: black;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin-left: 30%;
+  cursor: pointer;
+  font-family:'Noto Sans JP', Arial;
+}
+
+#button2 {
+  background-color: #e7e7e7; color: black;
+  border-radius: 14px;
+  color: black;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 6px 2px;
+  cursor: pointer;
+  font-family:'Noto Sans JP', Arial;
+}
+
+#button3 {
+  background-color: #e7e7e7; color: black;
+  border-radius: 14px;
+  color: black;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 6px 2px;
+  cursor: pointer;
+  font-family:'Noto Sans JP', Arial;
+}
+
+#checkbox1{
+  margin-left: 17%;
+  margin-top: 2%;
+}
+
+#gino22{
+  font-family: 'Noto Sans JP', Arial;
+  font-size: 24px;
+}
+
+#freccetta{
+  font-size: 15px;
+  margin-left: 17%;
+  font-family: 'Roboto', Arial;
+}
+
+.carica1{
+  background-color: #FFB266;
+  width: 300px;
+  height: 30px;
+  margin-left: 17%;
+  border-radius: 4px;
+  display: block;
+}
+
+#stato-carica{
+  margin-left: 17%;
+  font-size: 15px;
+  font-family: 'PT Sans', Arial;
+}
+
+.carica2{
+  background-color: #00CC00;
+  width: 500px;
+  height: 30px;
+  margin-left: 17%;
+  border-radius: 4px;
+  display: block;
+}
+
+.carica3{
+  background-color: #CC0000;
+  width: 120px;
+  height:30px;
+  margin-left: 17%;
+  border-radius: 4px;
+  display: block;
+}
